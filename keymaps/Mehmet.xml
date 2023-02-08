@@ -1,0 +1,33 @@
+<keymap version="1" name="Mehmet" parent="ReSharper">
+  <action id="CloneCaretAboveWithVirtualSpace">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="CloneCaretBelowWithVirtualSpace">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+    <keyboard-shortcut first-keystroke="ctrl alt page_up" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="GotoFile" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
+  <action id="ResizeToolWindowUp" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+</keymap>
